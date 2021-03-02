@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It utlizes the GITHUB API to search github user and also fetch there public repo along with other details 
+
+**Landing Page**
+![Screenshot from 2021-03-03 01-12-17](https://user-images.githubusercontent.com/48173231/109705246-8f692480-7bbd-11eb-9e0b-4318848e4d54.png)
+
+**User Searh Page**
+![Screenshot from 2021-03-03 01-12-23](https://user-images.githubusercontent.com/48173231/109705253-92641500-7bbd-11eb-8f21-e7866afedf89.png)
+
+**User Profile Page**
+![Screenshot from 2021-03-03 01-12-28](https://user-images.githubusercontent.com/48173231/109705266-94c66f00-7bbd-11eb-9972-1377b98556a3.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
